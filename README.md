@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wa.me254768371432
+- 📫 How to reach me wa.me/254768371432
 
 <!---
 princemaster1/princemaster1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
